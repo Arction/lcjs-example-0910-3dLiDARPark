@@ -24,7 +24,6 @@ const chart = lightningChart().Chart3D({
     // theme: Themes.darkGold
 })
     .setTitle(`LiDAR Point Cloud`)
-    .setBoundingBoxStrokeStyle(emptyLine)
     .setSeriesBackgroundFillStyle(emptyFill)
 
 const legend = chart.addLegendBox()
