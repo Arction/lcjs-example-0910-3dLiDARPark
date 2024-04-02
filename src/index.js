@@ -60,7 +60,9 @@ let totalPointsCount = 0
 
 const loadBinaryLidarFile = async (assetName, isColored) => {
     // Load LiDAR data as custom formatted binary file (contains total number of data points + each point X, Y, Z, R, G, B values)
-    const result = await fetch(document.head.baseURI + `examples/assets/0910/${assetName}`)
+    const result = await fetch(
+        new URL(document.head.baseURI).origin + new URL(document.head.baseURI).pathname + `examples/assets/0910/${assetName}`,
+    )
     const blob = await result.blob()
     const arrayBuffer = await blob.arrayBuffer()
     // Read number of points as first Uint32 value.
