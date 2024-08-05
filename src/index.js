@@ -2,7 +2,7 @@
  * LightningChart JS example showcasing visualization of a LiDAR scanned park
  */
 // Import LightningChartJS
-const lcjs = require('@arction/lcjs')
+const lcjs = require('@lightningchart/lcjs')
 
 // Extract required parts from LightningChartJS.
 const {

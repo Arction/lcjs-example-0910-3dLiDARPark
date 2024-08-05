@@ -60,9 +60,9 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © LightningChart Ltd 2009-2022. All rights reserved.
 
 
-[3D chart]: https://lightningchart.com/js-charts/api-documentation/v5.2.0/classes/Chart3D.html
-[3D axis]: https://lightningchart.com/js-charts/api-documentation/v5.2.0/classes/Axis3D.html
-[3D Point Cloud Series]: https://lightningchart.com/js-charts/api-documentation/v5.2.0/classes/PointCloudSeries3D.html
-[3D Point Series Types]: https://lightningchart.com/js-charts/api-documentation/v5.2.0/variables/PointSeriesTypes3D-1.html
-[3D Point Style]: https://lightningchart.com/js-charts/api-documentation/v5.2.0/variables/PointStyle3D.html
+[3D chart]: https://lightningchart.com/js-charts/api-documentation/v6.0.0/classes/Chart3D.html
+[3D axis]: https://lightningchart.com/js-charts/api-documentation/v6.0.0/classes/Axis3D.html
+[3D Point Cloud Series]: https://lightningchart.com/js-charts/api-documentation/v6.0.0/classes/PointCloudSeries3D.html
+[3D Point Series Types]: https://lightningchart.com/js-charts/api-documentation/v6.0.0/variables/PointSeriesTypes3D-1.html
+[3D Point Style]: https://lightningchart.com/js-charts/api-documentation/v6.0.0/variables/PointStyle3D.html
 
